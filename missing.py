@@ -1,11 +1,7 @@
 #******************************************************************************
 # missing.py
 #******************************************************************************
-# Name: Eduardo Esteves
-#******************************************************************************
-# Overall notes (not to replace inline comments):
-# I would really like to see what you had in mind for this, I struggled making this a nested loop
-#
+# Eduardo E
 #
 
 letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
@@ -37,3 +33,4 @@ print('Missing Letters:', end = ' ')
 for abc in letters:
     print(f'{abc}', end = ' ')
         
+
